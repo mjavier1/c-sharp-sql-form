@@ -1,0 +1,12 @@
+E:\windows_programancion\c#programing\sqlform\bin\Debug\sqlform.exe.config
+E:\windows_programancion\c#programing\sqlform\bin\Debug\sqlform.exe
+E:\windows_programancion\c#programing\sqlform\bin\Debug\sqlform.pdb
+E:\windows_programancion\c#programing\sqlform\obj\Debug\sqlform.csproj.AssemblyReference.cache
+E:\windows_programancion\c#programing\sqlform\obj\Debug\sqlform.csproj.SuggestedBindingRedirects.cache
+E:\windows_programancion\c#programing\sqlform\obj\Debug\sqlform.ContactDetails.resources
+E:\windows_programancion\c#programing\sqlform\obj\Debug\sqlform.Form1.resources
+E:\windows_programancion\c#programing\sqlform\obj\Debug\sqlform.Properties.Resources.resources
+E:\windows_programancion\c#programing\sqlform\obj\Debug\sqlform.csproj.GenerateResource.cache
+E:\windows_programancion\c#programing\sqlform\obj\Debug\sqlform.csproj.CoreCompileInputs.cache
+E:\windows_programancion\c#programing\sqlform\obj\Debug\sqlform.exe
+E:\windows_programancion\c#programing\sqlform\obj\Debug\sqlform.pdb
